@@ -5,5 +5,5 @@ Este es el Video de muestra
 
 
 Un video de muestra
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RGSIQ5LoKuU/0.jpg)](https://j.gifs.com/XozDkV.gif)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
